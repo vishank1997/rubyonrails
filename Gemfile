@@ -49,7 +49,7 @@ group :development do
 
 # added gems
 	gem 'coffee-script-source', '1.8.0'
-  gem 'pg'
+  gem 'pg', '~> 0.18.4'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
